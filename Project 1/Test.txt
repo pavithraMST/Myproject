@@ -1,3 +1,9 @@
 Hello World
 
 Test1
+
+********************************************************
+Pull using git command 
+command to pull 
+git pull <remote> <branch>
+*********************************************************
